@@ -132,7 +132,7 @@
   
   .upload-icon {
     height: 24px;
-      cursor: pointer;
+    cursor: pointer;
   }
 .upload-icon:hover{
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
@@ -140,7 +140,7 @@
   
   .youtube-apps-icon {
     height: 24px;
-      cursor: pointer;
+    cursor: pointer;
   }
 .youtube-apps-icon:hover{
     box-shadow: 10px 10px 10px rgba(10, 2, 2, 0.05);
@@ -148,7 +148,7 @@
   
   .notifications-icon {
     height: 24px;
-      cursor: pointer;
+    cursor: pointer;
   }
 .notifications-icon:hover {
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
