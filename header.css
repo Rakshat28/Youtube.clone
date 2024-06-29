@@ -135,7 +135,7 @@
     cursor: pointer;
   }
 .upload-icon:hover{
-    background-color: rgb(245, 245, 245);
+    box-shadow: 10px 10px 10px rgba(10, 2, 2, 0.05);
   }
   
   .youtube-apps-icon {
