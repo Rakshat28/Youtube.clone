@@ -133,14 +133,24 @@
   .upload-icon {
     height: 24px;
   }
+.upload-icon:hover{
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
+  }
   
   .youtube-apps-icon {
     height: 24px;
+  }
+.youtube-apps-icon:hover{
+    box-shadow: 10px 10px 10px rgba(10, 2, 2, 0.05);
   }
   
   .notifications-icon {
     height: 24px;
   }
+.notifications-icon:hover {
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
+  }
+
   
   .notifications-icon-container {
     position: relative;
